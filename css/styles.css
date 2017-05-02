@@ -1,0 +1,25 @@
+body {
+  background-image: url("../img/clovers.png");
+}
+
+#fortune-teller {
+  background-color: white;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+h1 {
+  background-color: white;
+  text-align: center;
+  color: green;
+
+
+}
+
+#jenna-response {
+  display: none;
+}
+
+#ian-response {
+  display: none;
+}
